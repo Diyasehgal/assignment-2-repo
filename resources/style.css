@@ -1,0 +1,90 @@
+/*Index Page*/
+
+body{
+    margin: 0px;
+    background-color: rgb(243, 143, 143);
+}
+
+.menu ul{
+    border-top: 4px solid black;
+    border-bottom: 4px solid black;
+    list-style-type:none;
+    background-color: rgb(223, 127, 202);
+    padding: 0px;
+    margin: 0px;
+    overflow: hidden;
+}
+
+.menu a{
+    color: snow;
+    text-decoration: none;
+    padding: 15px;
+    display: block;
+    text-align: center;
+    font-weight: bold;
+}
+
+.menu a:hover{
+    background-color: rgba(0, 0, 0, 0.377);
+}
+
+.menu li{
+    float: left;
+}
+
+h1{
+    color: #000000;
+} 
+
+.text{
+    margin: 15px;
+    color: #410241;
+}
+
+
+.css-example{
+    color: #000000;
+}
+
+
+.js-example{
+    color: #000000;
+} 
+
+
+/*Page Two*/
+table {
+    border-collapse: collapse;
+    width: 100%;
+    margin-top: 20px;
+
+}
+
+
+th, td {
+    border: 1px solid #ddd;
+    padding: 8px;
+    text-align: left;
+    color: #ffffff;
+}
+
+
+th {
+    background-color: #03070a;
+    color: #fff;
+    color: #ffffff;
+}
+
+
+caption {
+    caption-side: top;
+    font-weight: bold;
+    margin-bottom: 10px;
+    color: #ffffff;
+}
+
+/*Page Three*/
+
+.shape{
+    margin: 15px;
+}
